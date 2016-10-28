@@ -1,0 +1,3 @@
+[submodule "repo3-stud"]
+	path = repo3-stud
+	url = https://github.com/balaprasanna/repo3-stud.git
